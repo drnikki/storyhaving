@@ -1,0 +1,542 @@
+<!DOCTYPE html> 
+<!--[if IE 6 ]><html class="ie ielt9 ielt8 ielt7 ie6" lang="en-US"><![endif]--> 
+<!--[if IE 7 ]><html class="ie ielt9 ielt8 ie7" lang="en-US"><![endif]--> 
+<!--[if IE 8 ]><html class="ie ielt9 ie8" lang="en-US"><![endif]--> 
+<!--[if IE 9 ]><html class="ie ie9" lang="en-US"><![endif]--> 
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en-US"><!--<![endif]-->
+
+<head> 
+	<meta charset="utf-8"> 
+	
+	<meta name="description" content="Storydoing.com is a public project to delve in to the performance differences between storytelling companies and storydoing companies, managed by co:collective." />
+ 
+	<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, width=device-width"> 
+ 
+	<link rel="shortcut icon" href="assets/_img/favicon.ico">
+ 
+	<!-- Standard iPhone --> 
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="assets/_img/icon-touch.png" />
+	<!-- Retina iPhone --> 
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/_img/icon-touch.png" />
+	<!-- Standard iPad --> 
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/_img/icon-retina.png" />
+	<!-- Retina iPad --> 
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/_img/icon-retina.png" />
+ 
+	<title>Storydoing&trade;</title>
+	
+	<!-- fonts.com -->
+	<script type="text/javascript" src="http://fast.fonts.com/jsapi/18a66a11-f6ee-4a2e-ae83-42d0e5e972d9.js"></script>
+	
+	<!-- presentation -->
+	<link rel="stylesheet" href="assets/presentation.css?busted=08272013" type="text/css" />
+	
+</head>
+
+<body id="notfound">
+
+	<!-- Tracking -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41557702-2', 'storydoing.com');
+  ga('send', 'pageview');
+
+</script>	
+	<div id="body">
+		
+		<header id="header" class="clearfix">
+			<div class="container">
+			<div class="wrap">
+		
+				<h1><a href="http://storydoing.com" title="Home"><span id="logo">Storydoing<sup>&trade;</sup></span></a></h1>
+				
+				<div id="toggle" data-target="#nav"></div>
+			
+				<nav id="nav" role="navigation" class="closed">
+
+					<ul>
+						<li><a href="#idea">Idea</a></li>
+						<li><a href="#attributes">Attributes</a></li>
+						<li><a href="#methodology">Methodology</a></li>
+						<li><a href="#numbers">Numbers</a></li>
+						<li><a href="#tool">Tool</a></li>
+						<li><a href="#conversation">Conversation</a></li>
+					</ul>
+					
+				</nav>
+			
+			</div>
+			</div>
+		
+		</header><!-- /#header -->
+		
+		<section id="welcome">
+
+			<div class="wrap">
+				
+				<h1>St<span class="pull">o</span><span class="push">r</span><span class="pull">yd</span><span class="pull">o</span>ing<sup>&trade;</sup></h1>
+				<p>Welcome to storydoing.com, a public project to delve in to the performance differences between storytelling companies and storydoing companies, managed by <a href="http://www.cocollective.com" title="co:collective, a Storydoing company">co:collective</a>.</p>
+				
+			</div>
+		
+		</section><!-- /#welcome -->
+		
+		<!-- <div class="container clearfix">
+		
+		</div>/.container -->
+		
+		
+
+<section id="idea"><div class="wrapper clearfix">
+
+	<div class="wrap">
+		
+		<hgroup>
+			<h1>What is <br class="rbr" />Storydoing?</h1>
+		</hgroup>
+
+		<article>
+			
+			<p>The premise of the project is that there are two kinds of companies in the world today: storytelling companies that convey the story of their brand, business or product by telling that story, usually through PR or paid advertising; and storydoing companies that consciously convey their story through direct action. Storydoing companies use their core story as an organizing principle for activities throughout the company:  new product development, recruiting, compensation, partnerships, as well as any communication that they create. Our hypothesis is that storydoing companies spend fewer dollars on paid media, and the dollars they do spend work harder which makes storydoing companies more efficient. This site contains the results of a first round of analysis of 42 different publicly traded companies. We’d love for you to have a look at the methodology, the criteria, and the results, and let us know what you think.</p>
+			
+		</article>
+		
+	</div>
+
+</div></section><!-- /#what -->
+
+<section id="attributes" class="half"><div class="wrapper clearfix">
+
+	<div class="wrap">
+		
+		<hgroup>
+			<h1>The six attributes of Storydoing companies</h1>
+		</hgroup>
+
+		<article>
+			
+			<ol>
+				<li class="short">You have a story.</li>
+				<li>That story defines an ambition beyond commercial aspirations.</li>
+				<li>That story is understood and cared about by your entire company.</li>
+				<li>That story is being used to drive action throughout the company.</li>
+				<li class="short">Those actions add up to a cohesive whole.</li>
+				<li>Passion communities outside your company engage with and participate in the story.</li>
+			</ol>
+			
+		</article>
+		
+	</div>
+
+</div></section><!-- /#attributes -->
+
+<section id="methodology"><div class="wrapper clearfix">
+
+	<div class="wrap">
+		
+		<hgroup>
+			<h1>The <br class="rbr" />methodology</h1>
+		</hgroup>
+
+		<article class="twothirds">
+			
+			<p>We applied the criteria that define a Storydoing company to a wide sample of candidates, to create the list of seven companies that in our judgment best met the criteria. For each selected company we then identified a sample of five storytelling peers that did not meet the criteria.</p>
+			
+		</article>
+		
+	</div>
+
+		<article>
+			
+			<div id="companies">
+			
+				<div id="key" class="wrap">
+					
+					<h2>Companies analyzed</h2>
+				
+					<ul>
+						<li id="storydoing"><span></span>Storydoing</li>
+						<li id="storytelling"><span></span>Storytelling</li>
+					</ul>
+				</div>
+			
+				<div class="slide">
+					<div class="wrap">
+						<h2>Retail</h2>
+						<ul>
+							<li id="target" class="storydoing"><span class="accessibility">Target</span></li>
+							<li id="sears"><span class="accessibility">Sears</span></li>
+							<li id="jcpenny"><span class="accessibility">JC Penney</span></li>
+							<li id="dillards"><span class="accessibility">Dillard's</span></li>
+							<li id="saks"><span class="accessibility">Saks</span></li>
+							<li id="macys"><span class="accessibility">Macy's</span></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="slide">
+					<div class="wrap">
+						<h2>Entertainment</h2>
+						<ul>
+							<li id="waltdisney" class="storydoing"><span class="accessibility">Walt Disney</span></li>
+							<li id="timewarner"><span class="accessibility">Time Warner</span></li>
+							<li id="newscorporation"><span class="accessibility">News Corporation</span></li>
+							<li id="viacom"><span class="accessibility">Viacom</span></li>
+							<li id="comcast"><span class="accessibility">Comcast</span></li>
+							<li id="cbs"><span class="accessibility">CBS</span></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="slide">
+					<div class="wrap">
+						<h2>Food &amp; Beverage</h2>
+						<ul>
+							<li id="starbucks" class="storydoing"><span class="accessibility">Starbucks</span></li>
+							<li id="dunkinbrandgroups"><span class="accessibility">Dunkin Brand Groups</span></li>
+							<li id="wendyscompany"><span class="accessibility">Wendy's Company</span></li>
+							<li id="burgerking"><span class="accessibility">Burger King</span></li>
+							<li id="panera"><span class="accessibility">Panera</span></li>
+							<li id="cosi"><span class="accessibility">Cosi</span></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="slide">
+					<div class="wrap">
+						<h2>Electronic Payments</h2>
+						<ul>
+							<li id="americanexpress" class="storydoing"><span class="accessibility">American Express</span></li>
+							<li id="jpmorganandchase"><span class="accessibility">JP Morgan &amp; Chase</span></li>
+							<li id="mastercard"><span class="accessibility">Mastercard</span></li>
+							<li id="discover"><span class="accessibility">Discover</span></li>
+							<li id="fidelity"><span class="accessibility">Fidelity</span></li>
+							<li id="visa"><span class="accessibility">Visa</span></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="slide">
+					<div class="wrap">
+						<h2>Consumer Electronics</h2>
+						<ul>
+							<li id="apple" class="storydoing"><span class="accessibility">Apple</span></li>
+							<li id="panasonic"><span class="accessibility">Panasonic</span></li>
+							<li id="samsung"><span class="accessibility">Samsung</span></li>
+							<li id="toshiba"><span class="accessibility">Toshiba</span></li>
+							<li id="sony"><span class="accessibility">Sony</span></li>
+							<li id="dell"><span class="accessibility">Dell</span></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="slide">
+					<div class="wrap">
+						<h2>Airlines</h2>
+						<ul>
+							<li id="jetblue" class="storydoing"><span class="accessibility">Jet Blue</span></li>
+							<li id="americanairlines"><span class="accessibility">American Airlines</span></li>
+							<li id="united"><span class="accessibility">United</span></li>
+							<li id="usairways"><span class="accessibility">US Airways</span></li>
+							<li id="skywest"><span class="accessibility">Skywest</span></li>
+							<li id="delta"><span class="accessibility">Delta</span></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="slide">
+					<div class="wrap">
+						<h2>Information &amp; Technology</h2>
+						<ul>
+							<li id="ibm" class="storydoing"><span class="accessibility">IBM</span></li>
+							<li id="hewlettpackard"><span class="accessibility">Hewlett-Packard</span></li>
+							<li id="cisco"><span class="accessibility">Cisco</span></li>
+							<li id="oracle"><span class="accessibility">Oracle</span></li>
+							<li id="sap"><span class="accessibility">SAP</span></li>
+							<li id="csc"><span class="accessibility">CSC</span></li>
+						</ul>
+					</div>
+				</div>
+				
+			</div><!-- /#companies -->
+			
+		</article>
+		
+	<div class="wrap">
+		
+		<article class="twothirds">
+			<h2>Analysis</h2>
+			
+			<p>We then compared the performance of the seven Storydoing companies against the 35 storytelling companies. Our analysis combined financial data, social media data, and paid media data.</p>
+			
+			<dl>
+				<dt>Financial data</dt>
+					<dd>We pulled publicly available data on 42 listed companies over the course of five years. Key metrics included: revenue, operating income, media spend, share price, P/E ratio.</dd>
+				
+				<dt>Social media data</dt>
+					<dd>We used the social listening platform Radian6 to audit the social profile of each company, assessing its frequency of mention and the overall sentiment of mentions.</dd>
+	
+				<dt>Media spend data</dt>
+					<dd>We reached out to partners at IPG's Mediabrands to collect paid media spend data from 2007 to 2011.</dd>
+			</dl>
+		</article>
+		
+	</div>
+
+</div></section><!-- /#companies -->
+
+<section id="numbers"><div class="wrapper clearfix">
+
+	<div class="wrap">
+	
+		<h1 class="callout">Our analysis so far suggests that Storydoing companies outperform their storytelling peers in a number of ways.</h1>
+
+		<article id="financial" class="half clearfix">
+		
+			<hgroup>
+				<h1>Storydoing companies perform <br class="rbr" />better financially.</h1>
+			</hgroup>
+			
+			<figure>
+				<figcaption>Annualized revenue growth rate (2007-2011)</figcaption>
+				<img src="content/_img/chart_1.png" alt="Annualized revenue growth rate (2007-2011): Storytelling 6.1% Storydoing 10.4%" />
+			</figure>
+			
+			<figure>
+				<figcaption>Annualized operating income growth rate (2007-2011)</figcaption>
+				<img src="content/_img/chart_2.png" alt="Annualized operating income growth rate (2007-2011): Storytelling 7.1% Storydoing 16.1%" />
+			</figure>
+			
+		</article>
+
+		<article id="social" class="half clearfix">
+		
+			<hgroup>
+				<h1>Storydoing companies create more social engagement.</h1>
+			</hgroup>
+			
+			<figure>
+				<figcaption>Number of social media mentions (2008-2011)</figcaption>
+				<img src="content/_img/chart_3.png" alt="Number of social media mentions (2008-2011)" />
+			</figure>
+			
+			<figure>
+				<figcaption>Growth rate of social media mentions (2008-2012)</figcaption>
+				<img src="content/_img/chart_4.png" alt="Growth rate of social media mentions (2008-2011)" />
+			</figure>
+			
+			<figure>
+				<figcaption>Sentiment of social media mentions (2008-2012)</figcaption>
+				<img src="content/_img/chart_5.png" alt="Sentiment of social media mentions (2008-2012)" />
+			</figure>
+			
+		</article>
+
+		<article id="spend" class="half clearfix">
+		
+			<hgroup>
+				<h1>Storydoing companies spend less <br class="rbr" />on media.</h1>
+			</hgroup>
+			
+			<figure>
+				<figcaption>Media spend as % of annual revenue (2007-2011)</figcaption>
+				<img src="content/_img/chart_6.png" alt="Media spend as % of annual revenue (2007-2011)" />
+			</figure>
+			
+		</article>
+
+		<article id="value" class="half clearfix">
+		
+			<hgroup>
+				<h1>Storydoing company <br class="rbr" />valuations have grown faster.</h1>
+			</hgroup>
+			
+			<figure class="last">
+				<figcaption>Annualized share price growth (2007-2011)</figcaption>
+				<img src="content/_img/chart_7.png" alt="Annualized share price growth (2007-2011)" />
+			</figure>
+			
+		</article>
+
+		
+	</div>
+
+</div></section><!-- /#awareness -->
+
+<section id="tool"><div class="wrapper clearfix">
+
+	<div class="wrap">
+		
+		<hgroup>
+			<h1>Are you a <br class="rbr" />Storydoing <br class="rbr" />company?</h1>
+		</hgroup>
+
+		<article>
+			
+			<figure class="last">
+				<img src="content/_img/flowchart.png" alt="Are you a Storydoing Company?" />
+			</figure>
+			
+			<div class="accessibility">
+				<h2 class="q">Do you have a story?</h2>
+					<p class="aNO">Form a multi-department working team to lead development of a story.</p>
+				<h2 class="q">Does that story define an ambition beyond commercial aspiration?</h2>
+					<p class="aNO">Form a multi-department working team to evolve or redefine the story, broadening its relevance.</p>
+				<h2 class="q">Is that story understood and cared about by your entire company?</h2>
+					<p class="aNO">Create an employee engagement and training program, directed by managers across departments.</p>
+				<h2 class="q">Is that story being used to drive action throughout the company?</h2>
+					<p class="aNO">Start working regularly with individual functions to define and prioritize actions based on the story.</p>
+				<h2 class="q">Do those actions add up to a cohesive whole?</h2>
+					<p class="aNO">Diagnose where the differences are; create a governance structure to monitor and support aligned action.</p>
+				<h2 class="q">Are your customers and key partners engaging with and participating in the story?</h2>
+					<p class="aNO">Define an external participation program across social, PR and communications. Re-examine the story if engagement remains low.</p>
+				<h2 class="q">Congratulations! You are a world class storydoer.</h2>
+			</div>
+			
+		</article>
+		
+	</div>
+
+</div></section><!-- /#you -->
+
+<section id="conversation"><div class="wrapper clearfix">
+
+	<div class="wrap">
+		
+		<hgroup>
+			<h1>Join the conversation.</h1>
+		</hgroup>
+	
+			
+		<article id="faq" class="twothirds">
+			<h2>Ask a question</h2>
+			
+			<p>We're eager to answer any questions about the project. <a href="https://twitter.com/intent/tweet?button_hashtag=storydoing&screen_name=co" data-related="co">Reach out on Twitter.</a></p>
+		
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
+			<h2>Frequently asked questions</h2>
+			
+			<dl>
+				<dt>How did you determine which companies were storydoing companies and which were storytelling companies?</dt>
+					<dd><p>We developed the <a href="#attributes" title="The six attributes of Storydoing companies">6 attributes of storydoing companies</a> based on our collective experience. Those became the qualifying criteria. It is worth noting that very few companies fulfill all the criteria&mdash;most companies exist somewhere along a scale of pure storyteller to pure storydoer. The companies we selected fulfill all or most of the six criteria.</p></dd>
+					
+				<dt>How did you address the possibility of confirmation bias in your results?</dt>
+					<dd>
+						<p>Confirmation bias is always a danger. To avoid it, we actively looked for financial results, social media data, as well as for news articles, PR releases, or personal accounts that altered or disproved our results. But the most important tactic we’ve employed to mitigate confirmation bias is to post our findings publicly to ask others to challenge us and point the way to any data we may have missed.</p>
+					</dd>
+					
+					<dt>Why only 7 storydoing companies, vs. 35 storytelling companies?</dt>
+					<dd>While storydoing companies are becoming more numerous, they are still comparatively rare.  Particularly publicly traded storydoing companies&mdash;the only kind that provide public access to their financial data. As we continue digging and investigate additional categories and industries we’re hoping to discover more. If you run across candidates we’d be happy to add them to our list. Please email them to <a href="mailto:%68%65%6c%6c%6f%40%73%74%6f%72%79%64%6f%69%6e%67.%63%6f%6d?subject=I have a question for Storydoing.com" title="Email &#104;&#101;&#108;&#108;&#111;&#64;&#115;&#116;&#111;&#114;&#121;&#100;&#111;&#105;&#110;&#103;&#46;&#99;&#111;&#109;">&#104;&#101;&#108;&#108;&#111;&#64;&#115;&#116;&#111;&#114;&#121;&#100;&#111;&#105;&#110;&#103;&#46;&#99;&#111;&#109;</a></dd>
+					
+					<dt>How can I share my data with the project?</dt>
+					<dd><p>We'd love to include more companies in our analysis. Particularly those that are privately held. To share your data, email us at <a href="mailto:%68%65%6c%6c%6f%40%73%74%6f%72%79%64%6f%69%6e%67.%63%6f%6d?subject=I'd like to share my data with co:collective for Storydoing.com" title="Email &#104;&#101;&#108;&#108;&#111;&#64;&#115;&#116;&#111;&#114;&#121;&#100;&#111;&#105;&#110;&#103;&#46;&#99;&#111;&#109; to share your company's data.">&#104;&#101;&#108;&#108;&#111;&#64;&#115;&#116;&#111;&#114;&#121;&#100;&#111;&#105;&#110;&#103;&#46;&#99;&#111;&#109;</a>.</p></dd>
+					
+				<dt>I don’t agree with some of your thinking. Or my question wasn’t answered here. How can I reach you?</dt>
+				<dd><p>Feel free to <a href="https://twitter.com/intent/tweet?button_hashtag=storydoing&screen_name=co" data-related="co">reach out on twitter @co #storydoing</a> to share your thoughts publicly. We will be sure to respond. You can also email us privately at: <a href="mailto:%68%65%6c%6c%6f%40%73%74%6f%72%79%64%6f%69%6e%67.%63%6f%6d?subject=I have a question for Storydoing.com" title="Email &#104;&#101;&#108;&#108;&#111;&#64;&#115;&#116;&#111;&#114;&#121;&#100;&#111;&#105;&#110;&#103;&#46;&#99;&#111;&#109;">&#104;&#101;&#108;&#108;&#111;&#64;&#115;&#116;&#111;&#114;&#121;&#100;&#111;&#105;&#110;&#103;&#46;&#99;&#111;&#109;</a>.</p></dd>
+			
+			</dl>
+		</article>
+			
+		<article id="relatedarticles" class="onethird">
+			<h2>Related articles</h2>
+			
+			<ul>
+			
+				<li>
+					<h3><a href="http://blogs.hbr.org/cs/2013/08/if_your_leader_departs_preserve_the_companys_story_first.html" title="Read If Your Leader Departs, Preserve the Company's Story First on Harvard Business Review">If Your Leader Departs, Preserve the Company's Story First</a></h3>
+					<p><!--posted August 7, 2013 -->by Ty Montague on Harvard Business Review</p>
+				</li>
+			
+				<li>
+					<h3><a href="http://blogs.hbr.org/cs/2013/07/want_to_raise_prices_tell_a_be.html" title="Read If You Want to Raise Prices, Tell a Better Story on Harvard Business Review">If You Want to Raise Prices, Tell a Better Story</a></h3>
+					<p><!--posted July 31, 2013 -->by Ty Montague on Harvard Business Review</p>
+				</li>
+			
+				<li>
+					<h3><a href="http://blogs.hbr.org/cs/2013/07/ceos_are_to_blame_for_short_cmo_tenures.html" title="Read Are CEOs to Blame for Short CMO Tenures? on Harvard Business Review">Are CEOs to Blame for Short CMO Tenures?</a></h3>
+					<p><!--posted July 24, 2013 -->by Ty Montague on Harvard Business Review</p>
+				</li>
+			
+				<li>
+					<h3><a href="http://blogs.hbr.org/cs/2013/07/good_companies_are_storyteller.html" title="Read Good Companies Are Storytellers. Great Companies Are Storydoers on Harvard Business Review">Good Companies Are Storytellers. Great Companies Are Storydoers</a></h3>
+					<p><!--posted July 16, 2013 -->by Ty Montague on Harvard Business Review</p>
+				</li>
+			
+				<li>
+					<h3><a href="http://blogs.hbr.org/cs/2013/07/would_you_wear_that_companys_t_shirt.html" title="Read Red Bull Gives You a Business Strategy on Medium">Red Bull Gives You a Business Strategy</a></h3>
+					<p><!--posted July 12, 2013  -->by Ty Montague on Medium</p>
+				</li>
+			
+				<li>
+					<h3><a href="http://blogs.hbr.org/cs/2013/07/would_you_wear_that_companys_t_shirt.html" title="Read Would You Wear That Company's T-Shirt in Public? on Harvard Business Review">Would You Wear That Company's T-Shirt in Public?</a></h3>
+					<p><!--posted July 8, 2013  -->by Ty Montague on Harvard Business Review</p>
+				</li>
+					
+			</ul>
+			
+		</article>
+		
+	</div>
+
+</div></section><!-- /#conversation -->
+
+<section id="book"><div class="wrapper clearfix">
+
+	<div class="wrap">
+
+		<article class="twothirds">
+		
+			<hgroup>
+				<h1>Read our book.</h1>
+			</hgroup>
+		
+			<p>Co:'s first book, <em>True Story</em>, is a blueprint for effectively using Storydoing to transform organizations and drive better results. <a href="http://www.amazon.com/True-Story-Combine-Transform-Business/dp/1422170683/ref=sr_1_1?s=books&ie=UTF8&qid=1369064887&sr=1-1" title="Buy True Story on Amazon">Find it on Amazon.</a></p>
+			
+			<p><a href="http://hbr.org/books/chapters/true-story" title="Download a free chapter from True Story">Download a free chapter of <em>True Story</em></a></p>
+		
+		</article>
+			
+		<figure id="cover" class="last">
+			<a href="http://www.amazon.com/True-Story-Combine-Transform-Business/dp/1422170683/ref=sr_1_1?s=books&ie=UTF8&qid=1369064887&sr=1-1" title="Buy True Story on Amazon"><img src="content/_img/truestory-cover.png" alt="True Story, by Ty Montague" /></a>
+		</figure>
+		
+	</div>
+	
+</div></section><!-- /#book -->			
+		<footer id="footer">
+		
+			<div class="wrap">
+			
+				<p>Copyright &copy; 2013 <a href="http://www.cocollective.com" title="learn more about co:collective">co:collective</a> <a id="jump" href="#body" title="Back to top">TOP</a></p>
+				
+				<!-- AddThis Button BEGIN -->
+				<div id="share" class="addthis_toolbox addthis_default_style">
+					<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+					<a class="addthis_button_tweet"></a>
+				</div>
+				<script type="text/javascript">//var addthis_config = {"data_track_addressbar":true};</script>
+				<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51b0a1df07c5f28f"></script>
+				<!-- AddThis Button END -->
+				
+			</div>
+				
+		</footer>
+	
+	</div><!-- /#body -->
+	
+	<!-- JavaScript Library -->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/jquery.easing.min.js"></script>
+	<script type="text/javascript" src="assets/waypoints.min.js"></script>
+	
+	<!-- Building Blocks Core -->
+	<script type="text/javascript" src="assets/behavior.js?busted=08272013"></script>
+
+</body>
+
+</html>
